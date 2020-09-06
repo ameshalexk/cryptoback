@@ -2,14 +2,12 @@ const passport = require("passport");
 const passportJWT = require("passport-jwt");
 const ExtractJwt = passportJWT.ExtractJwt;
 const Strategy = passportJWT.Strategy;
-
 const config = require("./config");
-
 const User = require("../models/user.js");
 
 const params = {
-  secretOrKey: config.jwtSecret,
-  jwtFromRequest: ExtractJwt.fromAuthHeaderAsBearerToken(),
+    secretOrKey: config.jwtSecret,
+    jwtFromRequest: ExtractJwt.fromAuthHeaderAsBearerToken(),
 };
 
 module.exports = function () {

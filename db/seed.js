@@ -13,9 +13,9 @@ db.on("open", () => {
 });
 
 const data = require("./data");
-const Dog = require("../models/dog.js");
+const Purchase = require("../models/purchase.js");
 
-Dog.insertMany(data, (error, seededEntries) => {
+Purchase.insertMany(data, (error, seededEntries) => {
   if (error) {
     console.log(error);
   } else {
