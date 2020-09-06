@@ -8,7 +8,7 @@ const cors = require("cors");
 const passport = require('./config/passport')();
 const userController = require('./controllers/users.js')
 
-
+//Mongo
 const MONGODB_URI = process.env.MONGODB_URI;
 const db = mongoose.connection;
 
@@ -19,16 +19,16 @@ mongoose.connect(MONGODB_URI, {
 db.on("open", () => {
   console.log("Mongo is Connected");
 });
-/* Middleware */
+//Middleware 
 app.use(cors());
 app.use(express.json());
 app.use(passport.initialize());
 
-/* Controller */
+//Controller 
 app.use("/users", userController);
-app.use("/api/dogs", require("./controllers/dogs.js"));
+app.use("/api/purchases", require("./controllers/purchases.js"));
 
-/* Controller Ends here */
+// Controller Ends here 
 
 //LISTENER
 app.listen(PORT, () => {
