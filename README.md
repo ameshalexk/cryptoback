@@ -1,12 +1,12 @@
 # CoinStance
 
- # Project: (FinTech) Cryptocurrency Portfolio Tracker 
+# Project: (FinTech) Cryptocurrency Portfolio Tracker 
 
- ## Project Engineers: Amesh Kuruvilla, Mike Hanson, and Chris Howard.
+## Project Engineers: Amesh Kuruvilla, Mike Hansen, and Chris Howard.
 <hr>
 
-## project URL:  
-https://www.google.com "CoinStance Homepage"
+## Project URL:  
+"CoinStance Homepage"
 
 
 ## MVP User stories:
@@ -53,3 +53,4 @@ Amount of Shares: Number
 
 <a href="https://ibb.co/g9KvYPn"><img src="https://i.ibb.co/jfXVtWp/Screen-Shot-2020-09-09-at-8-47-04-PM.png" alt="Screen-Shot-2020-09-09-at-8-47-04-PM" border="0"></a>
 <a href="https://ibb.co/92M4Wpt"><img src="https://i.ibb.co/Bj16BfN/Screen-Shot-2020-09-09-at-8-54-55-PM.png" alt="Screen-Shot-2020-09-09-at-8-54-55-PM" border="0"></a>
+
