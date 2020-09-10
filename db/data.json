@@ -1,26 +1,65 @@
-[
-    {
-        "name": "Leonard",
-        "age": "10",
-        "frequency": "1x/day",
-        "imageUrl": "https://images.unsplash.com/photo-1493916665398-143bdeabe500?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a84d2018ccc77cde60160f8b467b3c80&auto=format&fit=crop&w=1334&q=80"
+[{"_id": "5f55154d8d648f7db113a7a0",
+    "coin": "bitcoin",
+    "price": 9999,
+    "shares": 0.05,
+    "__v": 0,
+    "createdAt": "2020-09-06T16:58:53.073Z",
+    "updatedAt": "2020-09-06T16:58:53.073Z"
     },
-    {
-        "name": "Peggy",
-        "age": "4",
-        "frequency": "1x/day",
-        "imageUrl": "https://images.unsplash.com/photo-1503256207526-0d5d80fa2f47?ixlib=rb-0.3.5&s=011eedd288b1e5b1b5e02c3619ad3b1f&auto=format&fit=crop&w=666&q=80"
+    {"_id": "5f55154d8d648f7db113a7a1",
+    "coin": "ripple",
+    "price": 0.2,
+    "shares": 800,
+    "__v": 0,
+    "createdAt": "2020-09-06T16:58:53.074Z",
+    "updatedAt": "2020-09-06T16:58:53.074Z"
     },
-    {
-        "name": "Voldemort",
-        "age": "0.25",
-        "frequency": "3x/day",
-        "imageUrl": "https://images.unsplash.com/photo-1447684808650-354ae64db5b8?ixlib=rb-0.3.5&s=7c54f21912fad3f0b3fee333a4a3a240&auto=format&fit=crop&w=1347&q=80"
+    {"_id": "5f55154d8d648f7db113a7a2",
+    "coin": "litecoin",
+    "price": 45,
+    "shares": 5,
+    "__v": 0,
+    "createdAt": "2020-09-06T16:58:53.074Z",
+    "updatedAt": "2020-09-06T16:58:53.074Z"
     },
-    {
-        "name": "Petunia",
-        "age": "2",
-        "frequency": "2x/day",
-        "imageUrl": "https://images.unsplash.com/photo-1505044197374-4d4ae3f9d566?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=af3dab3922f397a5fde45b3145a0cbdb&auto=format&fit=crop&w=668&q=80"
+    {"_id": "5f55154d8d648f7db113a7a3",
+    "coin": "ethereum",
+    "price": 249,
+    "shares": 0.4,
+    "__v": 0,
+    "createdAt": "2020-09-06T16:58:53.074Z",
+    "updatedAt": "2020-09-06T16:58:53.074Z"
+    },
+    {"_id": "5f5515e4c2ddc37df1f37279",
+    "coin": "bitcoin",
+    "price": 9999,
+    "shares": 0.08,
+    "__v": 0,
+    "createdAt": "2020-09-06T17:01:24.433Z",
+    "updatedAt": "2020-09-06T17:01:24.433Z"
+    },
+    {"_id": "5f5515e4c2ddc37df1f3727a",
+    "coin": "ripple",
+    "price": 0.18,
+    "shares": 600,
+    "__v": 0,
+    "createdAt": "2020-09-06T17:01:24.433Z",
+    "updatedAt": "2020-09-06T17:01:24.433Z"
+    },
+    {"_id": "5f5515e4c2ddc37df1f3727b",
+    "coin": "litecoin",
+    "price": 50,
+    "shares": 8,
+    "__v": 0,
+    "createdAt": "2020-09-06T17:01:24.433Z",
+    "updatedAt": "2020-09-06T17:01:24.433Z"
+    },
+    {"_id": "5f5515e4c2ddc37df1f3727c",
+    "coin": "ethereum",
+    "price": 300,
+    "shares": 2,
+    "__v": 0,
+    "createdAt": "2020-09-06T17:01:24.434Z",
+    "updatedAt": "2020-09-06T17:01:24.434Z"
     }
-]
+    ]
